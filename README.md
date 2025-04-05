@@ -221,6 +221,3 @@
 
 ---
 
-Would you like a **PDF version** of this roadmap or a **Notion template** to track your progress?
-
-Also, if you tell me your **goal (like DSA prep, ML, Web Dev, or Automation)**, I can generate a **custom learning path** tailored for it.
